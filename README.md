@@ -1,4 +1,4 @@
-# Save your time, save to money
+# Save your time, save your money
 
 ## What we have
 * We focus on high performance sever design
